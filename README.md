@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Fahd Marei 👋</h1>
 
-<h2 align="center">Flutter Developer | Full Stack Developer</h2>
+<h2 align="center">Flutter & Full Stack Developer</h2>
 <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahd-marei-040130306">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20%26%20Full%20Stack%20Developer;Mobile%20%26%20Web%20Development;Always%20Learning%20New%20Tech&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20%26%20Full%20Stack%20Developer;Mobile%20%26%20Web%20Development;Always%20Learning%20New%20Tech&font=Bold%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
 
@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=fahdmarei&style=flat&color=4010B0"/>
 </p>
 
-### [📄 View My CV](#) <!-- ضع لينك CV هنا لو متاح -->
+### [📄 View My CV](#) <!-- ضع لينك الـCV هنا لو متاح -->
 
 ### [🌐 My Portfolio](#) <!-- ضع لينك البورتفوليو هنا لو عندك -->
 
@@ -45,4 +45,6 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+rid-snake-dark.svg">
 </p>
