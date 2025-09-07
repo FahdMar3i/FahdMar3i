@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahd-marei-040130306">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20&%20Full%20Stack%20Developer;Mobile%20%26%20Web%20Development;Always%20Learning%20New%20Tech&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20%26%20Full%20Stack%20Developer;Mobile%20%26%20Web%20Development;Always%20Learning%20New%20Tech&font=Bold%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
 
